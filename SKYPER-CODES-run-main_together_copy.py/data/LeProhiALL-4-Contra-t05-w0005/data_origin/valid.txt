@@ -1,0 +1,1 @@
+queryid2387	civil_activitities	制造	O	提供	intervening	同意/接受	Expression_of_intention 鉴定	judical_related	租用/借用	civil_activitities	雇佣	civil_activitities	签订合同/订立协议	civil_activitities	制造	civil_activitities	组织/安排	organizing	介绍/引荐	organizing	帮助/救助	intervening	提供	intervening	同意/接受	Expression_of_intention	要求/请求	violence	欺骗	defraud	冒充    defraud	共谋

@@ -1,0 +1,19 @@
+queryid330	judical_related	赔偿	O	搜查/扣押	judical_related	拘捕	judical_related	归还/偿还	civil_activitities	盗窃财物	proprty_infringment	毁坏财物	proprty_infringment	逃匿	Escaping
+queryid706	judical_related	明知	O	卖出	civil_activitities	买入	civil_activitities	持械/持枪	violence	盗窃财物	proprty_infringment	共谋	complicty
+queryid2361	judical_related	谅解	O	赔偿	judical_related	签订合同/订立协议	civil_activitities	死亡	results	受损	results
+queryid2331	judical_related	赔偿	O	饮酒	Drink	交通事故	事故	伤害人身	violence	违章驾驶	illegal_driving	死亡	results	受损	results
+queryid3228	judical_related	搜查/扣押	O	拘捕	judical_related	鉴定	judical_related	买卖	civil_activitities	卖出	civil_activitities	吸毒	porn_gambling_drugs
+queryid3342	judical_related	搜查/扣押	O	拘捕	judical_related	鉴定	judical_related	卖出	civil_activitities	租用/借用	civil_activitities	雇佣	civil_activitities	吸毒	porn_gambling_drugs	贩卖毒品	porn_gambling_drugs
+queryid837	judical_related	搜查/扣押	O	拘捕	judical_related	鉴定	judical_related	买入	civil_activitities	支付/给付	civil_activitities	制造	civil_activitities	吸毒	porn_gambling_drugs	共谋	complicty	逃匿	Escaping
+queryid3878	judical_related	退赃	O	搜查/扣押	judical_related	买入	civil_activitities	租用/借用	civil_activitities	获利	civil_activitities	赌博	porn_gambling_drugs
+queryid5504	judical_related	赔偿	O	退赃	judical_related	伤害人身	violence	威胁/强迫	violence	拘束/拘禁	violence	共谋	complicty	受损	results
+queryid6706	judical_related	鉴定	O   鉴定	judical_related	毁坏财物	proprty_infringment	指使/教唆	complicity	受损	results
+queryid6072	judical_related	投案	O	供述	judical_related	谅解	judical_related	赔偿	judical_related	分赃	judical_related	搜查/扣押	judical_related	拘捕	judical_related	报警/报案	judical_related	买入	civil_activitities	获利	civil_activitities	运输/运送	civil_activitities	伤害人身	violence	敲诈勒索	violence	欺骗	defraud	冒充	defraud	伪造	defraud	盗窃财物	proprty_infringment	赌博	porn_gambling_drugs	共谋	complicty	逃匿	Escaping
+queryid-743	judical_related	拘捕	O	鉴定	judical_related	卖出	civil_activitities	买入	civil_activitities	运输/运送	civil_activitities	盗窃财物	proprty_infringment
+queryid4	judical_related	谅解	O	鉴定	judical_related	言语冲突	conflict	支付/给付	civil_activitities	运输/运送	civil_activitities	伤害人身	violence	逃匿	Escaping	死亡	results	受伤	results
+queryid9	judical_related	退赃	O	销赃	judical_related	搜查/扣押	judical_related	拘捕	judical_related	支付/给付	civil_activitities	签订合同/订立协议	civil_activitities	欺骗	defraud	伪造	defraud
+queryid16	judical_related	谅解	O	赔偿	judical_related	鉴定	judical_related	租用/借用	civil_activitities	签订合同/订立协议	civil_activitities	饮酒	Drink	伤害人身	violence	持械/持枪	violence	毁坏财物	proprty_infringment	违章驾驶	illegal_driving	逃匿	Escaping	受损	results
+queryid17	judical_related	鉴定	O	伤害人身	violence	盗窃财物	proprty_infringment	入室/入户	home_invasion	逃匿	Escaping	受伤	results
+queryid21	judical_related	赔偿	O	鉴定	judical_related	支付/给付	civil_activitities	运输/运送	civil_activitities	伤害人身	violence	持械/持枪	violence	欺骗	defraud	赌博	porn_gambling_drugs	开设赌场	porn_gambling_drugs	共谋	complicty	受伤	results	受损	results
+queryid26	judical_related	退赃	O	买入	civil_activitities	侵占财物	proprty_infringment
+queryid27	judical_related	投案	O	谅解	judical_related	报警/报案	judical_related	冲突	conflict	言语冲突	conflict	肢体冲突	conflict	签订合同/订立协议	civil_activitities	饮酒	Drink	交通事故	事故	伤害人身	violence	毁坏财物	proprty_infringment	违章驾驶	illegal_driving	受损	results

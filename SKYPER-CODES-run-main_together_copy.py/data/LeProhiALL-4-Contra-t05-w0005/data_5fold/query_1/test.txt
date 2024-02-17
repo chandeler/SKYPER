@@ -1,0 +1,22 @@
+queryid221	proprty_infringment	盗窃财物	O	毁坏财物	proprty_infringment	共谋	complicty	入室/入户	home_invasion
+queryid2143	judical_related	谅解	O	赔偿	judical_related	鉴定	judical_related	肢体冲突	conflict	集资	civil_activitities	支付/给付	civil_activitities	签订合同/订立协议	civil_activitities	伤害人身	violence	言语辱骂	violence	受伤	results	受损	results
+queryid1978	judical_related	鉴定	O	买入	civil_activitities	租用/借用	civil_activitities	伤害人身	violence	欺骗	defraud	拐骗	defraud	抢劫财物	proprty_infringment	共谋	complicty	逃匿	Escaping	死亡	results
+queryid1355	judical_related	退赃	O	出租/出借	civil_activitities	租用/借用	civil_activitities	获利	civil_activitities
+queryid3952	judical_related	供述	O	退赃	judical_related	搜查/扣押	judical_related	鉴定	judical_related	卖出	civil_activitities	赌博	porn_gambling_drugs	开设赌场	porn_gambling_drugs	共谋	complicty	逃匿	Escaping
+queryid5193	judical_related	明知	O	谅解	judical_related	赔偿	judical_related	退赃	judical_related	鉴定	judical_related	买入	civil_activitities	运输/运送	civil_activitities	盗窃财物	proprty_infringment	受损	results
+queryid6905	judical_related	供述	O	搜查/扣押	judical_related	拘捕	judical_related	鉴定	judical_related	制造	civil_activitities	持械/持枪	violence
+queryid6909	judical_related	鉴定	O	买入	civil_activitities	支付/给付	civil_activitities	私藏/藏匿	concealing	死亡	results
+queryid3805	judical_related	谅解	O	赔偿	judical_related	拘捕	judical_related	报警/报案	judical_related	鉴定	judical_related	归还/偿还	civil_activitities	威胁/强迫	violence	拘束/拘禁	violence	逃匿	Escaping	受伤	results
+queryid3862	judical_related	明知	O	销赃	judical_related	分赃	judical_related	拘捕	judical_related	报警/报案	judical_related	鉴定	judical_related	获利	civil_activitities	支付/给付	civil_activitities	伤害人身	violence	威胁/强迫	violence	拘束/拘禁	violence	欺骗	defraud	受伤	results
+queryid6652	judical_related	谅解	O	退赃	judical_related	鉴定	judical_related	冲突	conflict	卖出	civil_activitities	买入	civil_activitities	归还/偿还	civil_activitities	获利	civil_activitities	雇佣	civil_activitities	支付/给付	civil_activitities	签订合同/订立协议	civil_activitities	共谋	complicty	私藏/藏匿	concealing
+queryid6394	judical_related	供述	O	退赃	judical_related	租用/借用	civil_activitities	支付/给付	civil_activitities	贿赂	bribery
+queryid6432	judical_related	赔偿	O	租用/借用	civil_activitities	支付/给付	civil_activitities	伪造	defraud	贿赂	bribery	受损	results
+queryid6282	judical_related	搜查/扣押	O	租用/借用	civil_activitities	归还/偿还	civil_activitities	支付/给付	civil_activitities	签订合同/订立协议	civil_activitities	运输/运送	civil_activitities
+queryid4873	judical_related	拘捕	O	鉴定	judical_related	肢体冲突	conflict	杀害	violence	伤害人身	violence	持械/持枪	violence	毁坏财物	proprty_infringment	入室/入户	home_invasion	受损	results
+queryid6094	judical_related	赔偿	O	举报	judical_related	支付/给付	civil_activitities	签订合同/订立协议	civil_activitities	受损	results
+queryid-991	judical_related	拘捕	O	买入	civil_activitities	支付/给付	civil_activitities	吸毒	porn_gambling_drugs
+queryid7	judical_related	明知	O	卖出	civil_activitities	买入	civil_activitities	租用/借用	civil_activitities	归还/偿还	civil_activitities	获利	civil_activitities	支付/给付	civil_activitities	签订合同/订立协议	civil_activitities	欺骗	defraud	共谋	complicty	受损	results
+queryid8	defraud	欺骗	O	盗窃财物	proprty_infringment	逃匿	Escaping
+queryid13	judical_related	搜查/扣押	O	拘捕	judical_related	鉴定	judical_related	支付/给付	civil_activitities	遗弃	civil_activitities	运输/运送	civil_activitities	吸毒	porn_gambling_drugs	贩卖毒品	porn_gambling_drugs
+queryid22	judical_related	举报	O	报警/报案	judical_related	鉴定	judical_related	冲突	conflict	卖出	civil_activitities	买入	civil_activitities	制造	civil_activitities	运输/运送	civil_activitities
+queryid28	judical_related	谅解	O	赔偿	judical_related	拘捕	judical_related	鉴定	judical_related	言语冲突	conflict	租用/借用	civil_activitities	支付/给付	civil_activitities	伤害人身	violence	指使/教唆	complicity	受伤	results
